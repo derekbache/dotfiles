@@ -115,3 +115,8 @@ if ! shopt -oq posix; then
     . /etc/bash_completion
   fi
 fi
+
+# Created by `pipx` on 2025-04-01 03:21:58
+export PATH="$PATH:/home/dbache/.local/bin"
+# Added for completions in `pipx`
+eval "$(register-python-argcomplete pipx)"
