@@ -2,6 +2,8 @@
 
 This repo tracks changes to specific dotfiles in WSL so they can be tracked and ported more easily.
 
+NOTE: Currently tracking nvim config (init.lua) in kickstart.nvim repo
+
 I've used the alias 'config' to shorten the lengthy command normally needed, can be used in place of git commands in WSL.  
 For instance:  
 `config status`  
